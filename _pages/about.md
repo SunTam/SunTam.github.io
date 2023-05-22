@@ -20,7 +20,7 @@ Throughout my academic journey, I have gained a solid foundation in data managem
 # Qualification
 ------------
 * Tribhuvan University,BSc. CSIT (Dec 2018 – Ongoing)
-* Higher Secondary Education Board, Princeton International B. Secondary School(Jun 2016 - Apr 2018)
-* School Leaving Certificate  Examination, Adarash Jyoti higher Secondary School(2016)
+* Higher Secondary Education Board, Princeton Int. Sec School(Jun 2016 - Apr 2018)
+* School Leaving Certificate  Examination, Adarash Jyoti higher Secondary School(Mar 2016)
 
 
