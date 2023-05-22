@@ -14,8 +14,21 @@ redirect_from:
 My name is Sunil, and I am a final year Computer Science(Bsc.CSIT) student at Tribhuvan University. As an aspiring Data Engineer, I have a strong interest in the field of data engineering and its related areas. I am passionate about working with data and using it to drive meaningful insights and solutions.
 
 
-Throughout my academic journey, I have gained a solid foundation in data management, database systems, programming languages, and statistical analysis. I have actively engaged in courses and projects that have equipped me with the necessary technical skills to excel in the field of data engineering.
+# Technical Skills
+------------
 
+  <table style="border: none; border-collapse: collapse;" border="0">
+    <tr style="border-collapse: separate; border-spacing:30em;">
+      <td style="border-collapse: collapse; border: none;">
+           Programming language
+      </td>
+      <td style="border-collapse: collapse; border: none;">
+            Python<br>Java
+      </td>      
+    </tr>
+  </table>
+         
+ 
 
 # Qualification
 ------------
