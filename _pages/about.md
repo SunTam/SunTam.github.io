@@ -18,12 +18,15 @@ My name is Sunil, and I am a final year Computer Science(Bsc.CSIT) student at Tr
 # Technical Skills
 ------------
 **Programming language** : Python3, C, C++, Java, JavaScript, C#, HTML/CSS, SQL
+
 **Database** : PostgreSQL, MySQL, MongoDB, Snowflake
+
 **Python Packages** :RestApi Flask, BeautifulSoup,Request, Numpy, Pandas, Matplotlib, Scikit-learn
+
 **Miscellaneous** : SQL Database, ETL, Django, Flask, AWS, Microservices, PowerBi, Linux, Git, Docker, Kubernetes
 
  
-
+---
 # Qualification
 ------------
 * Tribhuvan University,BSc. CSIT (Dec 2018 – Ongoing)
