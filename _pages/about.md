@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
->My name is Sunil, and I am a final year Bsc.CSIT student at Tribhuvan University. As an aspiring Data Engineer, I have a strong >interest in the field of data engineering and its related areas. I am passionate about working with data and using it to drive >meaningful insights and solutions.
+>My name is Sunil, and I am a final year Bsc.CSIT student at Tribhuvan University. As an aspiring Data Engineer, I have a strong interest in the field of data engineering and its related areas. I am passionate about working with data and using it to drive meaningful insights and solutions.
 
 ---
 
