@@ -15,19 +15,19 @@ _My name is Sunil, and I am a final year Bsc.CSIT student at Tribhuvan Universit
 
 ---
 
-### Technical Skills
+## Technical Skills
 ------------
 >**Programming language** : Python3, C, C++, Java, JavaScript, C#, HTML/CSS, SQL
 
 >**Database** : PostgreSQL, MySQL, MongoDB, Snowflake
 
->**Python Packages** :RestApi Flask, BeautifulSoup,Request, Numpy, Pandas, Matplotlib, Scikit-learn
+>**Python Packages** :RestApi Flask, BeautifulSoup,Request, Numpy, Pandas, Matplotlib
 
->**Miscellaneous** : SQL Database, ETL, Django, Flask, AWS, Microservices, PowerBi, Linux, Git, Docker, Kubernetes
+>**Miscellaneous** : SQL Database, ETL, Django, Flask, AWS, Microservices, PowerBi, Linux, Git
 
  
 ---
-### Qualification
+## Qualification
 ------------
 * _Tribhuvan University,BSc. CSIT (Dec 2018 – Ongoing)_
 * _Higher Secondary Education Board, Princeton Int. Sec School(Jun 2016 - Apr 2018)_
