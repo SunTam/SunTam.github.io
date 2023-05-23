@@ -21,7 +21,7 @@ redirect_from:
 >
 >**Database** : PostgreSQL, MySQL, MongoDB, Snowflake 
 >
->**>Python Packages**: RestApi, BeautifulSoup, Request, Numpy, Pandas, Matplotlib
+>**Python Packages**: RestApi, BeautifulSoup, Request, Numpy, Pandas, Matplotlib
 > 
 >**Miscellaneous**: SQL Database, ETL, Django, Flask, AWS, Microservices, PowerBi, Linux, Git 
 
